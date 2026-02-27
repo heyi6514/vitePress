@@ -28,4 +28,4 @@ docs/.vitepress/dist
 docs/.vitepress/cache
 
 # Package manager
-pnpm-lock.yaml
+# pnpm-lock.yaml

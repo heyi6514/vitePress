@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My vitePress Project",
   description: "A VitePress Site",
+  base: './', // 使用相对路径，以便本地打开时能正确加载资源
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
